@@ -1,0 +1,1 @@
+# plugins-disable-real-mime-check
